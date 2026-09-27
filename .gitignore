@@ -1,0 +1,12 @@
+# Dataset
+Modbus-Dataset
+
+# Python
+.venv
+
+# vscode
+.vscode
+
+# Repo bên ngoài, clone riêng
+/core/
+/vagrant-opnsense/

@@ -1,0 +1,17 @@
+# Data Manipulation
+numpy
+pandas
+
+# Machine Learning
+scikit-learn       
+joblib
+
+# Read PCAP
+scapy
+
+# Data Visualization
+matplotlib
+
+# Notebook
+jupyterlab
+ipykernel
