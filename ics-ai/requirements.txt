@@ -1,6 +1,7 @@
 # Data Manipulation
 numpy
 pandas
+pyarrow
 
 # Machine Learning
 scikit-learn       
@@ -8,10 +9,13 @@ joblib
 
 # Read PCAP
 scapy
+dpkt
 
 # Data Visualization
 matplotlib
+tqdm
 
 # Notebook
 jupyterlab
 ipykernel
+ipywidgets

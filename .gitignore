@@ -1,8 +1,10 @@
 # Dataset
 Modbus-Dataset
+Modbus-Work
 
 # Python
 .venv
+.ipynb_checkpoints
 
 # vscode
 .vscode
